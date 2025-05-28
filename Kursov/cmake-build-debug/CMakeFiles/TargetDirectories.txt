@@ -1,0 +1,3 @@
+/home/fuf/CLionProjects/Kursov/cmake-build-debug/CMakeFiles/Kursov.dir
+/home/fuf/CLionProjects/Kursov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fuf/CLionProjects/Kursov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
