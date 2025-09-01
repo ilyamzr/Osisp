@@ -1,3 +1,0 @@
-C:/Users/ASUS/CLionProjects/untitled57/cmake-build-debug/CMakeFiles/untitled57.dir
-C:/Users/ASUS/CLionProjects/untitled57/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/CLionProjects/untitled57/cmake-build-debug/CMakeFiles/rebuild_cache.dir
